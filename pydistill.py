@@ -1,6 +1,6 @@
 # PYTHON_ARGCOMPLETE_OK
 """
-pydistill: Automated data distillation tool.
+pydistill: Automated data distillation framework.
 """
 
 

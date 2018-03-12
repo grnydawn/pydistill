@@ -80,7 +80,7 @@ def main():
 
     setup(
         name='pydistill',
-        description='pydistill: Automated data distillation tool',
+        description='pydistill: Automated data distillation framework',
         long_description=long_description,
         use_scm_version={
             'write_to': '_pydistill/_version.py',
@@ -91,7 +91,7 @@ def main():
         author=('Youngsung Kim'),
         entry_points={'console_scripts': ['distill=pydistill:main']},
         classifiers=classifiers,
-        keywords="data distillation tool",
+        keywords="data distillation framework",
         cmdclass={'pydistill': PyDistill},
         # the following should be enabled for release
         setup_requires=['pytest-runner', 'setuptools-scm'],

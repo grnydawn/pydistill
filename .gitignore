@@ -102,3 +102,4 @@ ENV/
 
 # custom
 *.swp
+.pytest_cache

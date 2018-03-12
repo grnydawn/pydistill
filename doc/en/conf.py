@@ -302,7 +302,7 @@ texinfo_documents = [
   (master_doc, 'pydistill', 'pydistill Documentation',
    'Youngsung Kim',
    'pydistill',
-   'Automated data distillation tool',
+   'Automated data transformation framework',
    'Programming',
    1),
 ]

@@ -2,11 +2,11 @@
 
 .. _features:
 
-pydistill: automated data distillation tool 
-===========================================
+pydistill: automated data transformation framework 
+==================================================
 
 
-The ``pydistill`` framework enables automated data distillation.
+The ``pydistill`` framework enables automated data transformation.
 
 
 To execute it::
